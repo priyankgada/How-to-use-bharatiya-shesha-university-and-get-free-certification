@@ -16,7 +16,7 @@ Online Learning, LMS, Learning Management System, How-to, Certification, Profess
 # 💻 Full Free Course Links and Certification:  </br>
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  </br>
 
-Full course and Courseware - [View Full Course free]((https://iserpent.com/home/course/how-to-use-bharatiya-shesha-university-courses-and-get-free-certification/10)).  </br>
+Full course and Courseware - [View Full Course free](https://iserpent.com/home/course/how-to-use-bharatiya-shesha-university-courses-and-get-free-certification/10)  </br>
 Certification Coupon Free coupon and Exam voucher - [Get Certified](https://www.iSerpent.com)  </br>
 Udemy Certification for this course - [Get this course on udemy](https://www.udemy.com/user/priyank-gada/)  </br>
 About Trainer - [Priyank Gada](https://www.priyankgada.com)  </br>
